@@ -1,0 +1,25 @@
+body.signBody{
+    background-color: #e6f2ff;
+}
+
+.container.signContainer{
+    margin-top: 8%;
+}
+
+.card.signCard{
+    padding: 10px 0px 10px;
+    background-color:#f4f4f4;
+    box-shadow: 2px 2px 5px rgba(0,0,0,.5);
+    -webkit-box-shadow: 2px 2px 5px rgba(0,0,0,.5);
+    -moz-box-shadow: 2px 2px 5px rgba(0,0,0,.5);
+}
+
+img.signImg{
+    padding: 2px 2rem 2rem;
+    margin: auto;
+    display: block;
+}
+
+form.sigiForm{
+    max-width: 350px;
+}
